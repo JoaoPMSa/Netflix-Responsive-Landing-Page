@@ -1,0 +1,1 @@
+Cópia responsiva da página inicial da Netflix feita com JavaScript, HTML e CSS
