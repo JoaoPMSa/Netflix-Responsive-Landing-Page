@@ -1,1 +1,1 @@
-<h2 align="center">Cópia responsiva da página inicial da <a href="https://joaopmsa.github.io/Netflix-Responsive-Landing-Page/" target="_blank">Netflix</a> feita com JavaScript, HTML e CSS</h2>
+<h2 align="center">A copy of <a href="https://joaopmsa.github.io/Netflix-Responsive-Landing-Page/" target="_blank">Netflix</a> responsive front page, made with JavaScript, HTML and CSS</h2>
